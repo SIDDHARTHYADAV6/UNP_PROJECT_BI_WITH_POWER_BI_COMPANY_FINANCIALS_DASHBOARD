@@ -3,6 +3,7 @@
 Completed this Project as a part of my Value Added Course with United Networks of Professionals (UNP). In this project, I undertook the task of transforming complex company financial data into an interactive and insightful Power BI dashboard.
 
 Key Highlights:
+
 ✅ Successfully transformed raw financial data into a dynamic and visually compelling Power BI dashboard.
 
 ✅ Leveraged Power BI’s data modeling, DAX functions, and interactive visuals for an in-depth financial analysis.
